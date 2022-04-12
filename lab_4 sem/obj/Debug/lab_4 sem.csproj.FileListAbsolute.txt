@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\bin\Debug\lab_4 sem.exe.config
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\bin\Debug\lab_4 sem.exe
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\bin\Debug\lab_4 sem.pdb
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\obj\Debug\lab_4 sem.csprojAssemblyReference.cache
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\obj\Debug\lab_4_sem.Form1.resources
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\obj\Debug\lab_4_sem.Properties.Resources.resources
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\obj\Debug\lab_4 sem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\obj\Debug\lab_4 sem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\obj\Debug\lab_4 sem.exe
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\obj\Debug\lab_4 sem.pdb
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\obj\Debug\lab_4 sem.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\bin\Debug\x86\tesseract41.dll
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\bin\Debug\x64\tesseract41.dll
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\bin\Debug\Tesseract.dll
+C:\Users\user\Desktop\универ\мага\lab_4 sem\lab_4 sem\obj\Debug\lab_4 sem.csproj.CopyComplete
